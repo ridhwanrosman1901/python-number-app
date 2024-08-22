@@ -106,4 +106,3 @@ print(f"The number of vowels in the string is: {vowel_count}")
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
